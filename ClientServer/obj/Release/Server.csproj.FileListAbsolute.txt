@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\ClientServer\bin\Release\ClientServer.exe.config
+C:\Users\User\source\repos\ClientServer\bin\Release\ClientServer.exe
+C:\Users\User\source\repos\ClientServer\bin\Release\ClientServer.pdb
+C:\Users\User\source\repos\ClientServer\obj\Release\Server.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ClientServer\obj\Release\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ClientServer\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClientServer\obj\Release\ClientServer.exe
+C:\Users\User\source\repos\ClientServer\obj\Release\ClientServer.pdb

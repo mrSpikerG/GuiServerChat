@@ -1,0 +1,16 @@
+[10.07.2022 12:51:47] SERVER START
+[10.07.2022 12:51:55] [Info]:  192.168.0.103	[10.07.2022 12:51:55] Vasya : testmsg
+[10.07.2022 12:52:04] [Info]:  192.168.0.103 banned
+[10.07.2022 12:52:08] [Info]:  user Vasya try to senв message but he can't
+[10.07.2022 12:52:10] [Info]:  user Vasya try to senв message but he can't
+[10.07.2022 12:52:26] [Info]:  Vasya OUT OF chat!
+[10.07.2022 12:52:38] [Info]:  user Petya try to senв message but he can't
+[10.07.2022 12:52:41] send message Petya[10.07.2022 12:52:42] [Info]:  user NotPetya try to senв message but he can't
+[10.07.2022 12:52:43] [Info]:  user NotPetya try to senв message but he can't
+[10.07.2022 12:53:09] send message NotPetya[10.07.2022 12:53:09] [Info]:  Petya OUT OF chat!
+[10.07.2022 13:00:16] [Info]:  SERVER START
+[10.07.2022 13:00:22] [Debug]:  add connection 
+[10.07.2022 13:00:23] [Info]:  user Vasya try to send message but he can't
+[10.07.2022 13:00:24] [Info]:  user Vasya try to send message but he can't
+[10.07.2022 13:00:28] [Info]:  Vasya OUT OF chat!
+[10.07.2022 13:00:28] [Debug]:  remove connection Vasya

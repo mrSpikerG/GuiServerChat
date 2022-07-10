@@ -1,0 +1,187 @@
+[10.07.2022 16:20:15] [Info]:  192.168.0.103	[10.07.2022 16:20:15] Testname : gdfhf
+[10.07.2022 16:20:16] [Info]:  192.168.0.103	[10.07.2022 16:20:16] Testname : \
+[10.07.2022 16:20:43] [Info]:  Testname OUT OF chat!
+[10.07.2022 16:23:33] [Info]:  SERVER STOP
+[10.07.2022 16:23:40] [Info]:  192.168.0.103	[10.07.2022 16:23:40] dfsfd : sadasd
+[10.07.2022 16:23:42] [Info]:  192.168.0.103	[10.07.2022 16:23:42] dfsfd : ds
+[10.07.2022 16:23:47] [Info]:  dfsfd OUT OF chat!
+[10.07.2022 16:45:11] [Info]:  SERVER START
+[10.07.2022 16:45:43] [Info]:  еуеуdsfds OUT OF chat!
+[10.07.2022 16:45:44] [Info]:  SERVER STOP
+[10.07.2022 16:45:44] [Info]:  SERVER STOP
+[10.07.2022 16:49:47] [Info]:  SERVER START
+[10.07.2022 16:50:04] [Info]:  192.168.0.103	[10.07.2022 16:50:04] etgdf : vmh
+[10.07.2022 16:50:11] [Info]:  etgdf OUT OF chat!
+[10.07.2022 16:50:16] [Info]:  SERVER STOP
+[10.07.2022 16:50:16] [Info]:  SERVER STOP
+[10.07.2022 16:50:43] [Info]:  SERVER START
+[10.07.2022 17:03:36] [Info]:  SERVER START
+[10.07.2022 17:03:45] [Info]:  192.168.0.103	[10.07.2022 17:03:45] Test Petya : sddsf
+[10.07.2022 17:04:25] [Info]:  Test Petya OUT OF chat!
+[10.07.2022 17:04:28] [Info]:  SERVER STOP
+[10.07.2022 17:04:28] [Info]:  SERVER STOP
+[10.07.2022 17:04:29] [Info]:  SERVER START
+[10.07.2022 17:04:37] [Info]:  SERVER STOP
+[10.07.2022 17:04:37] [Info]:  SERVER STOP
+[10.07.2022 17:04:46] [Info]:  SERVER START
+[10.07.2022 17:04:48] [Info]:  SERVER STOP
+[10.07.2022 17:04:48] [Info]:  SERVER STOP
+[10.07.2022 17:05:01] [Info]:  SERVER START
+[10.07.2022 17:05:07] [Info]:  SERVER STOP
+[10.07.2022 17:05:07] [Info]:  SERVER STOP
+[10.07.2022 17:05:19] [Info]:  SERVER START
+[10.07.2022 17:05:22] [Info]:  SERVER STOP
+[10.07.2022 17:05:22] [Info]:  SERVER STOP
+[10.07.2022 17:05:29] [Info]:  SERVER START
+[10.07.2022 17:05:53] [Info]:  SERVER STOP
+[10.07.2022 17:05:53] [Info]:  SERVER STOP
+[10.07.2022 17:21:09] [Info]:  SERVER START
+[10.07.2022 17:21:18] [Info]:  192.168.0.103	[10.07.2022 17:21:18] Vasya : sffsd
+[10.07.2022 17:21:43] [Info]:  Vasya OUT OF chat!
+[10.07.2022 17:21:45] [Info]:  SERVER STOP
+[10.07.2022 17:21:45] [Info]:  SERVER STOP
+[10.07.2022 17:22:14] [Info]:  SERVER START
+[10.07.2022 17:22:21] [Info]:  192.168.0.103	[10.07.2022 17:22:21] Vasya : dsff
+[10.07.2022 17:22:31] [Info]:  Vasya OUT OF chat!
+[10.07.2022 17:22:34] [Info]:  SERVER STOP
+[10.07.2022 17:22:34] [Info]:  SERVER STOP
+[10.07.2022 17:22:44] [Info]:  SERVER START
+[10.07.2022 17:23:14] [Info]:  SERVER START
+[10.07.2022 17:23:25] [Info]:  SERVER STOP
+[10.07.2022 17:23:25] [Info]:  SERVER STOP
+[10.07.2022 17:23:27] [Info]:  SERVER START
+[10.07.2022 17:23:30] [Info]:  SERVER STOP
+[10.07.2022 17:23:30] [Info]:  SERVER STOP
+[10.07.2022 17:23:31] [Info]:  SERVER START
+[10.07.2022 17:23:34] [Info]:  SERVER STOP
+[10.07.2022 17:23:34] [Info]:  SERVER STOP
+[10.07.2022 17:25:00] [Info]:  SERVER START
+[10.07.2022 17:25:09] [Info]:  192.168.0.103	[10.07.2022 17:25:09] test : df
+[10.07.2022 17:26:22] [Info]:  test OUT OF chat!
+[10.07.2022 17:26:23] [Info]:  SERVER STOP
+[10.07.2022 17:26:23] [Info]:  SERVER STOP
+[10.07.2022 17:26:27] [Info]:  SERVER START
+[10.07.2022 17:26:58] [Info]:  SERVER STOP
+[10.07.2022 17:26:58] [Info]:  SERVER STOP
+[10.07.2022 17:30:00] [Info]:  SERVER START
+[10.07.2022 17:30:03] [Info]:  enter
+[10.07.2022 17:30:11] [Info]:  192.168.0.103	[10.07.2022 17:30:11] adefs : fds
+[10.07.2022 17:30:14] [Info]:  enter
+[10.07.2022 17:30:14] [Info]:   send message: [10.07.2022 17:30:14] er
+[10.07.2022 17:30:14] [Info]:  enter
+[10.07.2022 17:30:15] [Info]:  enter
+[10.07.2022 17:30:15] [Info]:  enter
+[10.07.2022 17:30:15] [Info]:   send message: [10.07.2022 17:30:15] er
+[10.07.2022 17:30:15] [Info]:  enter
+[10.07.2022 17:30:15] [Info]:   send message: [10.07.2022 17:30:15] er
+[10.07.2022 17:30:16] [Info]:  enter
+[10.07.2022 17:30:16] [Info]:  enter
+[10.07.2022 17:30:16] [Info]:  enter
+[10.07.2022 17:30:16] [Info]:  enter
+[10.07.2022 17:30:16] [Info]:   send message: [10.07.2022 17:30:16] er
+[10.07.2022 17:30:16] [Info]:  enter
+[10.07.2022 17:30:16] [Info]:  enter
+[10.07.2022 17:30:16] [Info]:   send message: [10.07.2022 17:30:16] er
+[10.07.2022 17:30:17] [Info]:  enter
+[10.07.2022 17:30:17] [Info]:   send message: [10.07.2022 17:30:17] er
+[10.07.2022 17:30:51] [Info]:  571b2757-7aac-484b-ac49-772627a98737 send message: test in chat!
+[10.07.2022 17:30:51] [Info]:  192.168.0.103	[10.07.2022 17:30:51] test : dsfs
+[10.07.2022 17:31:02] [Info]:  SERVER STOP
+[10.07.2022 17:31:02] [Info]:  test OUT OF chat!
+[10.07.2022 17:58:27] [Info]:  SERVER START
+[10.07.2022 17:58:35] [Info]:  192.168.0.103	[10.07.2022 17:58:35] Tet : df
+[10.07.2022 17:58:45] [Info]:  6a933333-b4d6-4607-8951-808ac504becf send message: Mdls in chat!
+[10.07.2022 17:58:46] [Info]:  6a933333-b4d6-4607-8951-808ac504becf send message: [10.07.2022 17:58:46] Mdls : dsfd
+[10.07.2022 18:04:26] [Info]:  e8861cf5-c468-4148-a4b6-6f433745fafa send message: Tet OUT OF chat!
+[10.07.2022 18:04:26] [Info]:  Tet OUT OF chat!
+[10.07.2022 18:04:27] [Info]:  Mdls OUT OF chat!
+[10.07.2022 18:04:29] [Info]:  SERVER STOP
+[10.07.2022 18:04:29] [Info]:  SERVER STOP
+[10.07.2022 18:04:34] [Info]:  SERVER START
+[10.07.2022 18:04:40] [Info]:  192.168.0.103	[10.07.2022 18:04:40] trsgdf : ghfj
+[10.07.2022 18:04:53] [Info]:  SERVER STOP
+[10.07.2022 18:04:53] [Info]:  SERVER STOP
+[10.07.2022 18:04:53] [Info]:  trsgdf OUT OF chat!
+[10.07.2022 18:06:39] [Info]:  SERVER START
+[10.07.2022 18:06:45] [Info]:  192.168.0.103	[10.07.2022 18:06:45] test : df
+[10.07.2022 18:07:51] [Info]:  test OUT OF chat!
+[10.07.2022 18:07:53] [Info]:  SERVER STOP
+[10.07.2022 18:07:53] [Info]:  SERVER STOP
+[10.07.2022 18:07:59] [Info]:  SERVER START
+[10.07.2022 18:08:05] [Info]:  192.168.0.103	[10.07.2022 18:08:05] test1 : test
+[10.07.2022 18:08:10] [Info]:  4f5cafe4-f929-4e96-9e05-a45a1d2b8586 send message: test2 in chat!
+[10.07.2022 18:08:11] [Info]:  192.168.0.103	[10.07.2022 18:08:11] test2 : tsgrdt
+[10.07.2022 18:08:23] [Info]:  4f5cafe4-f929-4e96-9e05-a45a1d2b8586 send message: lox
+[10.07.2022 18:10:03] [Info]:  4a06c5f4-f503-40fb-8278-e14d2369dab2 send message: test1 OUT OF chat!
+[10.07.2022 18:10:03] [Info]:  test1 OUT OF chat!
+[10.07.2022 18:10:04] [Info]:  test2 OUT OF chat!
+[10.07.2022 18:10:05] [Info]:  SERVER STOP
+[10.07.2022 18:10:05] [Info]:  SERVER STOP
+[10.07.2022 18:10:43] [Info]:  SERVER START
+[10.07.2022 18:10:48] [Info]:  SERVER STOP
+[10.07.2022 18:10:48] [Info]:  SERVER STOP
+[10.07.2022 18:10:50] [Info]:  SERVER START
+[10.07.2022 18:10:55] [Info]:  send message from console
+[10.07.2022 18:10:56] [Info]:  SERVER STOP
+[10.07.2022 18:10:56] [Info]:  SERVER STOP
+[10.07.2022 18:11:12] [Info]:  SERVER START
+[10.07.2022 18:11:21] [Info]:  sddfg OUT OF chat!
+[10.07.2022 18:11:24] [Info]:  SERVER STOP
+[10.07.2022 18:11:24] [Info]:  SERVER STOP
+[10.07.2022 18:14:20] [Info]:  SERVER START
+[10.07.2022 18:14:28] [Info]:  192.168.0.103	[10.07.2022 18:14:28] testclown : dsf
+[10.07.2022 18:14:31] [Info]:  5215e1b9-7081-4b8a-8d12-1822e13569ba send message: not clown in chat!
+[10.07.2022 18:14:33] [Info]:  5215e1b9-7081-4b8a-8d12-1822e13569ba send message: [10.07.2022 18:14:33] not clown : sfd
+[10.07.2022 18:14:33] [Info]:  192.168.0.103	[10.07.2022 18:14:33] not clown : sfd
+[10.07.2022 18:14:38] [Info]:  5215e1b9-7081-4b8a-8d12-1822e13569ba send message: not clown OUT OF chat!
+[10.07.2022 18:14:38] [Info]:  not clown OUT OF chat!
+[10.07.2022 18:14:51] [Info]:  testclown OUT OF chat!
+[10.07.2022 18:14:55] [Info]:  SERVER STOP
+[10.07.2022 18:14:55] [Info]:  SERVER STOP
+[10.07.2022 18:15:11] [Info]:  SERVER START
+[10.07.2022 18:15:17] [Info]:  192.168.0.103	[10.07.2022 18:15:17] clown : dsefdf
+[10.07.2022 18:15:22] [Info]:  1015ad42-770d-444b-aeb5-b0b098dc0760 send message: not clown in chat!
+[10.07.2022 18:15:23] [Info]:  192.168.0.103	[10.07.2022 18:15:23] not clown : asfd
+[10.07.2022 18:15:29] [Info]:  1015ad42-770d-444b-aeb5-b0b098dc0760 send message: not clown OUT OF chat!
+[10.07.2022 18:15:29] [Info]:  not clown OUT OF chat!
+[10.07.2022 18:15:57] [Info]:  SERVER START
+[10.07.2022 18:16:04] [Info]:  clown OUT OF chat!
+[10.07.2022 18:16:16] [Info]:  0e5e936c-f575-4ff1-8701-1f8fff7180bb send message: chel in chat!
+[10.07.2022 18:16:18] [Info]:  0e5e936c-f575-4ff1-8701-1f8fff7180bb send message: [10.07.2022 18:16:18] chel : ds
+[10.07.2022 18:16:19] [Info]:  0e5e936c-f575-4ff1-8701-1f8fff7180bb send message: chel OUT OF chat!
+[10.07.2022 18:16:25] [Info]:  dsfg OUT OF chat!
+[10.07.2022 18:16:32] [Info]:  SERVER STOP
+[10.07.2022 18:16:32] [Info]:  SERVER STOP
+[10.07.2022 18:30:23] [Info]:  SERVER START
+[10.07.2022 18:31:07] [Info]:  SERVER STOP
+[10.07.2022 18:31:07] [Info]:  SERVER STOP
+[10.07.2022 18:31:15] [Info]:  SERVER START
+[10.07.2022 18:31:22] [Info]:  192.168.0.103	[10.07.2022 18:31:22] Vasya : sdsf
+[10.07.2022 18:31:33] [Info]:  192.168.0.103	[jk;] Vasya : cghj10.07.2022 18:31:30
+[10.07.2022 18:31:35] [Info]:  192.168.0.103	[kl] Vasya : 10.07.2022 18:31:33
+[10.07.2022 18:31:44] [Info]:  9b33acb5-3cf3-4ed2-a790-cf3986206407 send message: estsd in chat!
+[10.07.2022 18:31:46] [Info]:  9b33acb5-3cf3-4ed2-a790-cf3986206407 send message: [10.07.2022 18:31:46] estsd : dsf
+[10.07.2022 18:31:46] [Info]:  192.168.0.103	[10.07.2022 18:31:46] estsd : dsf
+[10.07.2022 18:31:47] [Info]:  babaea83-2d70-476b-a842-4a6720c22b8e send message: [fdg] Vasya : 10.07.2022 18:31:35
+[10.07.2022 18:31:49] [Info]:  babaea83-2d70-476b-a842-4a6720c22b8e send message: [dsfsfd] Vasya : 10.07.2022 18:31:47
+[10.07.2022 18:31:50] [Info]:  babaea83-2d70-476b-a842-4a6720c22b8e send message: [sdgsdsd] Vasya : 10.07.2022 18:31:49
+[10.07.2022 18:32:39] [Info]:  9b33acb5-3cf3-4ed2-a790-cf3986206407 send message: estsd OUT OF chat!
+[10.07.2022 18:32:39] [Info]:  estsd OUT OF chat!
+[10.07.2022 18:32:40] [Info]:  Vasya OUT OF chat!
+[10.07.2022 18:32:41] [Info]:  SERVER STOP
+[10.07.2022 18:32:41] [Info]:  SERVER STOP
+[10.07.2022 18:32:49] [Info]:  SERVER START
+[10.07.2022 18:32:55] [Info]:  192.168.0.103	[10.07.2022 18:32:55] yser : dsfg
+[10.07.2022 18:33:22] [Info]:  yser OUT OF chat!
+[10.07.2022 18:33:24] [Info]:  SERVER STOP
+[10.07.2022 18:33:24] [Info]:  SERVER STOP
+[10.07.2022 18:33:49] [Info]:  SERVER START
+[10.07.2022 18:33:53] [Info]:  192.168.0.103	[10.07.2022 18:33:53] test : test
+[10.07.2022 18:34:00] [Info]:  192.168.0.103 banned
+[10.07.2022 18:34:06] [Info]:  user test try to send message but he can't
+[10.07.2022 18:34:07] [Info]:  user test try to send message but he can't
+[10.07.2022 18:34:15] [Info]:  192.168.0.103 banned
+[10.07.2022 18:34:16] [Info]:  192.168.0.103 banned
+[10.07.2022 18:34:31] [Info]:  test OUT OF chat!
+[10.07.2022 18:34:32] [Info]:  SERVER STOP
+[10.07.2022 18:34:32] [Info]:  SERVER STOP

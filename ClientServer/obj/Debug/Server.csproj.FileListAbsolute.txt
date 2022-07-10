@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ClientServer\bin\Debug\ClientServer.exe.config
+C:\Users\User\source\repos\ClientServer\bin\Debug\ClientServer.exe
+C:\Users\User\source\repos\ClientServer\bin\Debug\ClientServer.pdb
+C:\Users\User\source\repos\ClientServer\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ClientServer\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ClientServer\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClientServer\obj\Debug\ClientServer.exe
+C:\Users\User\source\repos\ClientServer\obj\Debug\ClientServer.pdb
+C:\Users\olgak\source\repos\ClientServer\bin\Debug\ClientServer.exe.config
+C:\Users\olgak\source\repos\ClientServer\bin\Debug\ClientServer.exe
+C:\Users\olgak\source\repos\ClientServer\bin\Debug\ClientServer.pdb
+C:\Users\olgak\source\repos\ClientServer\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\olgak\source\repos\ClientServer\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\olgak\source\repos\ClientServer\obj\Debug\ClientServer.exe
+C:\Users\olgak\source\repos\ClientServer\obj\Debug\ClientServer.pdb

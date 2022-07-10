@@ -1,0 +1,10 @@
+C:\Users\olgak\source\repos\ServerGUI\obj\Debug\ServerGUI.csproj.AssemblyReference.cache
+C:\Users\olgak\source\repos\ServerGUI\obj\Debug\ServerGUI.Properties.Resources.resources
+C:\Users\olgak\source\repos\ServerGUI\obj\Debug\ServerGUI.MainServerForm.resources
+C:\Users\olgak\source\repos\ServerGUI\obj\Debug\ServerGUI.csproj.GenerateResource.cache
+C:\Users\olgak\source\repos\ServerGUI\obj\Debug\ServerGUI.csproj.CoreCompileInputs.cache
+C:\Users\olgak\source\repos\ServerGUI\bin\Debug\ServerGUI.exe.config
+C:\Users\olgak\source\repos\ServerGUI\bin\Debug\ServerGUI.exe
+C:\Users\olgak\source\repos\ServerGUI\bin\Debug\ServerGUI.pdb
+C:\Users\olgak\source\repos\ServerGUI\obj\Debug\ServerGUI.exe
+C:\Users\olgak\source\repos\ServerGUI\obj\Debug\ServerGUI.pdb

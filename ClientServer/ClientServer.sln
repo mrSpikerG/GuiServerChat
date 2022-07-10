@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server.csproj", "{A63172E8-9BCA-4D96-8AE2-829730B21A52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "..\Client\Client.csproj", "{900BA6AD-D620-44AF-BF28-2B0E8F6BC5F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerGUI", "..\ServerGUI\ServerGUI.csproj", "{46718D62-1D18-414D-9C05-F9E1F21A247D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A63172E8-9BCA-4D96-8AE2-829730B21A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63172E8-9BCA-4D96-8AE2-829730B21A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63172E8-9BCA-4D96-8AE2-829730B21A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63172E8-9BCA-4D96-8AE2-829730B21A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{900BA6AD-D620-44AF-BF28-2B0E8F6BC5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900BA6AD-D620-44AF-BF28-2B0E8F6BC5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900BA6AD-D620-44AF-BF28-2B0E8F6BC5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900BA6AD-D620-44AF-BF28-2B0E8F6BC5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46718D62-1D18-414D-9C05-F9E1F21A247D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46718D62-1D18-414D-9C05-F9E1F21A247D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46718D62-1D18-414D-9C05-F9E1F21A247D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46718D62-1D18-414D-9C05-F9E1F21A247D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C50F4DAE-0940-4CA0-B82D-3CA30B85D047}
+	EndGlobalSection
+EndGlobal
